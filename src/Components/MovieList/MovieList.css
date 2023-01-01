@@ -1,0 +1,14 @@
+.movielist{
+    padding: 0 1.4rem 3rem;
+}
+.movielist_title{
+    font-size: 1.75rem;
+    margin: 2.5rem;
+
+}
+
+.movielist_cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
